@@ -5,3 +5,5 @@ The Producer reads realtime stream data from wikimedia & writes that data to Kaf
 The Consumer consumes the realtime data from Kafka Topic & writes that data to database.
 Here we use Apache Kafka as a broker to exchange messages between Producer & Consumer in
 a Spring Boot project.
+
+Wikimedia url: https://stream.wikimedia.org/v2/stream/recentchange
